@@ -16,9 +16,15 @@ Applies to all cross-functional projects that deliver product features, services
 ## Core Roles
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Technical Lead: owns technical decisions, architecture, and code quality standards.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead / Quality Owner: defines test strategy, owns quality gates, and leads all QA/Testing activities.
+- UX Designer: owns user research, interaction design, and usability validation.
+- Support / Customer Advocate: channels customer feedback into backlog and incident reviews.
+- Release Manager: coordinates release planning, deployment checklist, and go/no-go decisions (may be played by PM on small teams).
 - Stakeholders: provide inputs and approvals.
+
+> For full role definitions and the interaction model, see [Roles & Personas](./octoacme-roles-and-personas.md). For role assignment on a new project, use the [Role Assignment Checklist](./octoacme-role-assignment-checklist.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
