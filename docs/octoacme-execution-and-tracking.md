@@ -22,6 +22,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- **QA Lead / Quality Owner** defines the test strategy, owns the QA column on the project board, and issues the go/no-go quality signal before each release (see [Roles & Personas](./octoacme-roles-and-personas.md))
 
 ## Reporting & Metrics
 - Track velocity and burndown
